@@ -55,7 +55,7 @@ You can find Top Go Web Frameworks list [here](https://github.com/mingrammer/go-
 )
 
 var (
-	deprecatedRepos = []string
+	deprecatedRepos []string
 	repos           []Repo
 )
 
