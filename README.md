@@ -2,6 +2,8 @@
 A list of popular github projects related to Go template engines (ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
+You can find Top Go Web Frameworks list [here](https://github.com/mingrammer/go-web-framework-stars)
+
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
 | [gofpdf](https://github.com/jung-kurt/gofpdf) | 3452 | 360 | 56 | A PDF document generator with high level support for text, drawing and images | 2019-11-19 19:55:53 |
@@ -26,4 +28,4 @@ Please update **list.txt** (via Pull Request)
 | [extemplate](https://github.com/dannyvankooten/extemplate) | 16 | 6 | 2 | Wrapper package for Go's template/html to allow for easy file-based template inheritance. | 2018-08-18 08:27:29 |
 | [gospin](https://github.com/m1/gospin) | 5 | 1 | 0 | Article spinning and spintax/spinning syntax engine written in Go, useful for A/B, testing pieces of text/articles and creating more natural conversations | 2019-12-03 17:09:16 |
 
-*Last Automatic Update: 2020-01-12T17:35:16Z*
+*Last Automatic Update: 2020-01-12T17:48:07Z*
