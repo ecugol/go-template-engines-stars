@@ -44,6 +44,8 @@ const (
 A list of popular github projects related to Go template engines (ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
+You can find Top Go Web Frameworks list [here](https://github.com/mingrammer/go-web-framework-stars)
+
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
 `
@@ -53,7 +55,7 @@ Please update **list.txt** (via Pull Request)
 )
 
 var (
-	deprecatedRepos = [2]string{"https://github.com/go-martini/martini", "https://github.com/pilu/traffic"}
+	deprecatedRepos = []string
 	repos           []Repo
 )
 
